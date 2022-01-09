@@ -1,0 +1,22 @@
+{
+  "name": "alfa-databinding",
+  "version": "0.5.0",
+  "description": "databinding for HTML Elements",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfalabs/alfa-databinding.git"
+  },
+  "author": "alfalabs.net <alfalabs.npm@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfalabs/alfa-databinding/issues"
+  },
+  "homepage": "https://github.com/alfalabs/alfa-databinding#readme"
+}
